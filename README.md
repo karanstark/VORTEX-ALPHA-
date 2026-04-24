@@ -3,7 +3,8 @@
 > **The Apex Hierarchy Visualizer & Graph Intelligence Engine.**
 > Built for the elite. Architected for performance. Designed to dominate.
 
-![VORTEX ALPHA PREVIEW](https://github.com/karanstark/VORTEX-ALPHA-/raw/main/frontend/src/assets/preview.png) *(Note: Add your own screenshot here)*
+<img width="1336" height="618" alt="image" src="https://github.com/user-attachments/assets/1260227b-fc61-4afd-be25-2e1a6959a8b1" />
+
 
 ## 🌑 THE MISSION
 **VORTEX ALPHA** isn't just a tool; it's a high-performance system designed to map complex node relationships with zero latency. Built for the **Bajaj Finserv Engineering Challenge**, it delivers industrial-grade graph processing, cycle detection, and high-fidelity shader-enhanced visuals.
